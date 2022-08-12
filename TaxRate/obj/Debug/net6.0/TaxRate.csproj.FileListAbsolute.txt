@@ -1,0 +1,15 @@
+/home/tunkert/csharp-projects/TaxRate/bin/Debug/net6.0/TaxRate
+/home/tunkert/csharp-projects/TaxRate/bin/Debug/net6.0/TaxRate.deps.json
+/home/tunkert/csharp-projects/TaxRate/bin/Debug/net6.0/TaxRate.runtimeconfig.json
+/home/tunkert/csharp-projects/TaxRate/bin/Debug/net6.0/TaxRate.dll
+/home/tunkert/csharp-projects/TaxRate/bin/Debug/net6.0/TaxRate.pdb
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.csproj.AssemblyReference.cache
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.GeneratedMSBuildEditorConfig.editorconfig
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.AssemblyInfoInputs.cache
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.AssemblyInfo.cs
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.csproj.CoreCompileInputs.cache
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.dll
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/refint/TaxRate.dll
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.pdb
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/TaxRate.genruntimeconfig.cache
+/home/tunkert/csharp-projects/TaxRate/obj/Debug/net6.0/ref/TaxRate.dll
